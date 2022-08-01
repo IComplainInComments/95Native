@@ -7,7 +7,7 @@
 
 **Requirements**
 1. Access to the airport command in terminal (For now google it).
-2. Brew or Macbooks installed.
+2. Brew or Macports installed.
 3. Installation of tcpdump.
 4. A tool that can deauth a connection (if you wish to use the deauth method of attack).
 
